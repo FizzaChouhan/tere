@@ -1,6 +1,22 @@
 
-
+.body{
+    background-color:#f9f9f9 ;
+}
 .btn1{
     background-color: rgba(117, 191, 122, 1);
     
+}
+.third{
+    background-color: rgba(117, 191, 122, 1);
+    
+}
+.textcolor{
+   color:  rgba(158, 157, 162, 1);
+}
+.tere{
+    color: rgba(117, 191, 122, 1);
+}
+.numbers{
+    color: rgba(117, 191, 122, 1);
+    font-size: larger;
 }
